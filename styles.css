@@ -10,7 +10,7 @@ header{
     margin: auto;
     
 }
-#steps{
+.steps{
     font-size: 30px;
     color:purple;
 }
